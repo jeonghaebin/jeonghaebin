@@ -1,7 +1,7 @@
 <div aligen =center>
-  [![header](https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Jeong%20Hae%20Bin&fontColor=black&fontAlign=50)]
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Jeong%20Hae%20Bin&fontColor=black&fontAlign=50)
   <br></br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghaebin&count_bg=%23779FB2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghaebin&count_bg=%23779FB2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
 
 <h3 aligen =center>
