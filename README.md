@@ -16,7 +16,7 @@
 
 
 
-[![JeongHaeBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHaeBin)](https://github.com/anuraghazra/github-readme-stats)
+[![JeongHaeBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHaeBin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
