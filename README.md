@@ -27,7 +27,7 @@
 </div>
 
 <h3 align="center">
-🔍 Approach
+🔍 https://cdn-icons-png.flaticon.com/128/5909/5909756.png Approach
 </h3>
 <div align="center">
   <a href=goqnld77@gmail.com></a><img src="https://img.shields.io/badge/gmail-181717?style=for-the-badge&logo=gmail&logoColor=red">
